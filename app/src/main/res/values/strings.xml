@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Facts</string>
+    <string name="main_empty">Please, pull to refresh...</string>
+</resources>
